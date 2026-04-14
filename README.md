@@ -34,3 +34,17 @@ Gusto-project/
 ├── hero-img.png
 ├── shop.png
 └── README.md
+
+## Sections Included
+
+Home / Hero
+Specials
+About
+Menu
+Gallery
+Chef
+Contact
+How to Run the Project
+Download or clone the repository.
+Open the project folder.
+Open index.html in your browser.
