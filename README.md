@@ -37,14 +37,18 @@ Gusto-project/
 
 ## Sections Included
 
-Home / Hero
+Home / Hero section 
+
 Specials
 About
 Menu
 Gallery
 Chef
 Contact
+
 How to Run the Project
+
+
 Download or clone the repository.
 Open the project folder.
 Open index.html in your browser.
@@ -53,13 +57,15 @@ Purpose
 
 This project was created as a front-end practice website to improve skills in page layout, styling, and responsive web design.
 
-Future Improvements
-Add JavaScript for mobile menu interaction
-Improve accessibility and semantic structure
-Fix small HTML structure issues
-Add animations and transitions
-Connect the contact form to a backend
+  Future Improvements
+
+
+        Add JavaScript for mobile menu interaction
+        Improve accessibility and semantic structure
+        Fix small HTML structure issues
+        Add animations and transitions
+        Connect the contact form to a backend
 
 Author
 
-Abiya
+Sandeesh Fernando
