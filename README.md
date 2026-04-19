@@ -2,10 +2,10 @@
 
 A simple and responsive restaurant website built using **HTML** and **CSS**.
 
-## Overview
+# Overview
 This project is a restaurant landing page for **Gusto**, designed to showcase featured specials, menu items, gallery images, chef information, and contact details in a clean and modern layout.
 
-## Features
+# Features
 - Fixed navigation bar
 - Hero section with welcome message
 - Specials section with featured dishes
@@ -68,4 +68,4 @@ This project was created as a front-end practice website to improve skills in pa
 
 Author
 
-Sandeesh Fernando
+   Sandeesh Fernando
