@@ -11,7 +11,7 @@ Gobal CSS for the Gusto */
     /* Color Palette */
     --primary-color: #c69c6d;
     --dark-bg: #222;
-    --light-bg: #fffefe;
+    --light-bg: #f5f5f5;
     --text-dark: #161515;
     --text-light: #fff;
     --overlay-dark: rgba(0, 0, 0, 0.6);
@@ -213,7 +213,7 @@ header {
 
 .special-item p {
     font-size: 0.95rem;
-    color: #666;
+    color: #4b4949;
 }
 
 /* our storry*/
